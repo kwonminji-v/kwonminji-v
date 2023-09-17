@@ -18,7 +18,7 @@
 </div>
 
 
-## 💻 DEV's log 💻
+## 💻 개발 일기 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://coding-ha-da.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 

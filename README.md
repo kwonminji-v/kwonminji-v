@@ -1,8 +1,9 @@
 <div align="left">
+<br>
     
 ### 저의 깃허브에 와주셔서 감사합니다 반가워요 😊 👋
 
-
+---
 
 
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
@@ -18,9 +19,10 @@
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwonminji-v&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
+<br>
 
 
-## 💻 개발 일기 
+#### 💻 개발 일기 
 <div style="display:flex; flex-direction:row;">
     <a href="https://coding-ha-da.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
@@ -33,7 +35,7 @@
 </div><br>
 
 
-## 📫 Contact 
+#### 📫 Contact 
 <div style="display:flex; flex-direction:row;">
     <a href="">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 

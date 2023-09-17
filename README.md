@@ -32,7 +32,8 @@
     </a>
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=coding-ha-da&theme=default)](https://coding-ha-da.tistory.com)
-</div><br>
+
+</div>
 
 
 #### 📫 Contact 

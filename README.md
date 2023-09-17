@@ -2,14 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Minji's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
-### Hi there 👋
+### 🌱 Hi there 👋
 
 
 
 
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 <div>
-[![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonminji&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/kwonminji-v/github-readme-stats)
+[![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonminji-v&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/kwonminji-v/github-readme-stats)
 </div>
 
 <br>
@@ -18,7 +18,7 @@
 </div>
 
 
-## 💻 개발 일기 💻
+## 💻 개발 일기 
 <div style="display:flex; flex-direction:row;">
     <a href="https://coding-ha-da.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
@@ -28,6 +28,17 @@
     </a>
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=coding-ha-da&theme=default)](https://coding-ha-da.tistory.com)
+</div><br>
+
+
+## 📫 Contact 
+<div style="display:flex; flex-direction:row;">
+    <a href="">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="minji6313@hanmail.net">
+        <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
 </div><br>
 
 

@@ -1,14 +1,15 @@
 <div align="left">
----
     
-### 🌱 Hi there 👋
+### 저의 깃허브에 와주셔서 감사합니다 반가워요 😊 👋
 
 
 
 
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 <div>
+    
 [![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonminji-v&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/kwonminji-v/github-readme-stats)
+
 </div>
 
 <br>

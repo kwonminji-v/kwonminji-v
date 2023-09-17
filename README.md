@@ -19,7 +19,8 @@
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwonminji-v&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-<br>
+
+----
 
 
 #### 💻 개발 일기 
@@ -30,11 +31,19 @@
     <a href=https://www.notion.so/Study-7d8fa786eacd43d4960699c06a59c6f2">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
+
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=coding-ha-da&theme=default)](https://coding-ha-da.tistory.com)
 
 </div>
 
+<br>
+
+
+----
+
+
+<br>
 
 #### 📫 Contact 
 <div style="display:flex; flex-direction:row;">

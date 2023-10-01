@@ -60,6 +60,8 @@
     </a>
 </div><br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minji_0323)](https://solved.ac/minji_0323/)
+
 
 </div>
 

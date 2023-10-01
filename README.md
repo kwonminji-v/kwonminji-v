@@ -6,7 +6,7 @@
 ##
 
 
-<h3>👩‍💻 My Github Stats 👩‍💻</h3>
+<h3> My Github Stats 💬 </h3>
 <div>
     
 [![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonminji-v&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/kwonminji-v/github-readme-stats)

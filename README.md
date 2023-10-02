@@ -45,7 +45,7 @@
     <a href=https://www.notion.so/Study-7d8fa786eacd43d4960699c06a59c6f2">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
-
+<br />
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=coding-ha-da&theme=default)](https://coding-ha-da.tistory.com)
 

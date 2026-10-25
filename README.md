@@ -23,7 +23,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
 
 </div>
 
@@ -46,8 +45,6 @@
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
 <br />
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=coding-ha-da&theme=default)](https://coding-ha-da.tistory.com)
 
 </div>
 
